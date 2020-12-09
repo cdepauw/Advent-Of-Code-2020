@@ -44,7 +44,7 @@ namespace Day_9
         }
 
         // AttackXMAS executes the following logic:
-        //  1) Find the odd value that does is not a sum of 2 of its predecessors.
+        //  1) Find the odd value that is not a sum of 2 of its predecessors.
         //     The number of predecessors to choose from is given by preambleLength.
         //  2) Find the series of numbers that sum to this odd value.
         //  3) Return the sum of the smallest and largest numbers of this series of 2).
